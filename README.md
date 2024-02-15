@@ -1,1 +1,1 @@
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=crispantea&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crispantea&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/crispantea/github-readme-stats)
